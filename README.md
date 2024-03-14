@@ -4,6 +4,5 @@ repo para aprendizagem de js
 Leoncio e Lulu 
 --
 ## ETEC Sales Gomes
---
 ## Curso de Desenvolvimento de Sistemas
 Programação de Aplicativos Mobile I
