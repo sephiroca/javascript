@@ -1,9 +1,9 @@
 # javascript
 repo para aprendizagem de js
 # desenvolvedores
-Leoncion e Lulu 
+Leoncio e Lulu 
 --
-## etec Sales Gomes
+## ETEC Sales Gomes
 --
-## curso de desenvolvimento de sistemas
-programação de aplicativos mobile I
+## Curso de Desenvolvimento de Sistemas
+Programação de Aplicativos Mobile I
